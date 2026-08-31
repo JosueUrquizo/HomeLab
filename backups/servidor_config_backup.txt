@@ -1,0 +1,3 @@
+Configuracion inicial del servidor homelab
+Fecha de creacion: Wed Jul 15 23:05:39 -05 2026
+Administrador: josue
